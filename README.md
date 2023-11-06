@@ -1,4 +1,4 @@
-![Alt text]('./../image/muthuvel_banner.jpg')
+![Alt text]('https://github.com/Muthuvel15/muthuvel15/blob/main/image/muthuvel_banner.jpg')
 
 
 # Hello, I'm Muthuvel SAVOUNDIRAPANDIANE 🚀
